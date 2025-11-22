@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on **My solo projects**
 
-- 🌱 My working fields: **Software, Electronics, Computer Science, Quantum Computing, Computer Architecture, Machine Learning, Neural Networks, 3D Modelling**
-
+- 🌱 My fields of work: **Software, Electronics, 3D modelling, Quantum Computing, Computer Architecture, Machine Learning, Neural Networks, IOT Devices and Device Networking**
+ 
 - 📫 How to reach me **ihsan.aksu1011@gmail.com**
 
 - 📄 My experiences **Arduino, Python, Unity, Visual Studio, Fusion 360 and Roblox Studio**
