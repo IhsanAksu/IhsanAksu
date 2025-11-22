@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **My solo projects**
 
-- 🌱 I’m currently learning **Software, Computer Architecture and AI**
+- 🌱 I’m currently learning **Software, Electronics, Computer Science, Quantum Computing, Computer Architecture, Machine Learning, Neural Networks**
 
 - 📫 How to reach me **ihsan.aksu1011@gmail.com**
 
-- 📄 My experiences **Arduino, Python, Unity and Roblox Studio**
+- 📄 My experiences **Arduino, Python, Unity, Visual Studio and Roblox Studio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
